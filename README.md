@@ -5,7 +5,6 @@
 ![cert](Google-IT-Support.png)
 
 
-* This repository written for reference and self-documentation purpose
 * Feel free to contribute!
 
 
